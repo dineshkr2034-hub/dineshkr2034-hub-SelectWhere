@@ -16,7 +16,7 @@ public class FilterRecordsTest {
 
     /**
      * This test calls the problem1 method and then compares it to the hardcoded list here, if they are the same then
-     * the test passes.
+     * the test passes.`
      */
     @Test
     public void problem1GetAllSmiths(){
